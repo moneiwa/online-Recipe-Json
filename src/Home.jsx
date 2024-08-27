@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Axios from 'axios';
 import './index.css';
-mmm
+
 function Home({ onLogout }) {
   const [recipe, setRecipe] = useState(null);
   const [input, setInput] = useState('');
