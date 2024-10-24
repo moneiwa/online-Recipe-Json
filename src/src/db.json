@@ -1,0 +1,302 @@
+{
+  "user": [
+    {
+      "id": "ff32",
+      "name": "newa",
+      "password": "123"
+    },
+    {
+      "id": "b84b",
+      "name": "ney",
+      "password": "12"
+    },
+    {
+      "id": "2bea",
+      "username": "ney",
+      "password": "12"
+    },
+    {
+      "id": "25e7",
+      "username": "ney",
+      "password": "12"
+    },
+    {
+      "id": "9369",
+      "username": "ney",
+      "password": "12222"
+    },
+    {
+      "id": "8193",
+      "name": "neyy",
+      "password": ""
+    },
+    {
+      "id": "80f1",
+      "name": "mm",
+      "password": "123123"
+    },
+    {
+      "id": "91e6",
+      "name": "newa",
+      "password": "1234"
+    },
+    {
+      "id": "506c",
+      "name": "newa",
+      "password": "123456"
+    },
+    {
+      "id": "f738",
+      "name": "newa",
+      "password": "123456"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "656c",
+      "name": "Pancakes",
+      "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+      "instructions": "Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away. Set a medium frying pan or crêpe pan over medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven. Serve with lemon wedges and sugar or your favourite filling.",
+      "category": "Breakfast",
+      "prepTime": "30 mins (optional)",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Milk",
+        "Oil",
+        "Salt"
+      ]
+    },
+    {
+      "id": "29f2",
+      "name": "Chicken Handi",
+      "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "instructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry until deep golden brown. Set aside. In the same pot, add chopped garlic and sauté for a minute. Then add chopped tomatoes and cook until soft. Return fried onion, add ginger paste, sauté, then add cumin seeds, half coriander seeds, and green chilies. Add spices, sauté for a couple of minutes, then add chicken, season with salt, and cook until almost done. When oil separates, add beaten yogurt, cream, and remaining coriander and fenugreek leaves. Mix well and serve hot with naan or rotis.",
+      "category": "Main Course",
+      "prepTime": "15 mins",
+      "ingredients": [
+        "Chicken",
+        "Onion",
+        "Garlic",
+        "Tomatoes",
+        "Ginger paste",
+        "Cumin seeds",
+        "Coriander seeds",
+        "Green chilies",
+        "Turmeric powder",
+        "Red chili powder"
+      ]
+    },
+    {
+      "id": "120b",
+      "name": "Sushi",
+      "image": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "instructions": "To make sushi rolls, pat out rice, lay a nori sheet on a mat, dip hands in vinegared water, and pat rice on top, leaving one edge clear. Spread Japanese mayonnaise, add filling, roll tightly, and slice. For pressed sushi, layer smoked salmon in a loaf tin, cover with rice, and press down. For sushi balls, use cling film to wrap rice around toppings.",
+      "category": "Seafood",
+      "prepTime": "30 mins",
+      "ingredients": [
+        "Sushi rice",
+        "Nori sheets",
+        "Japanese mayonnaise",
+        "Fillings (e.g., tuna, cucumber)",
+        "Smoked salmon (for pressed sushi)",
+        "Cling film"
+      ]
+    },
+    {
+      "id": "9578",
+      "name": "Pizza Express Margherita",
+      "instructions": "Preheat oven to 230°C. Add sugar and crumble fresh yeast into warm water, let froth. Sift flour and salt into a bowl, pour in yeast mixture and olive oil. Mix until binding, knead for 10 minutes. Place in a baking tray, spread passata, add mozzarella, oregano, black pepper, drizzle olive oil. Cook for 10-12 minutes, top with basil before serving.",
+      "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+      "category": "Main Course",
+      "prepTime": "2 hours (including dough rising)",
+      "ingredients": [
+        "Fresh yeast",
+        "Sugar",
+        "Warm water",
+        "Flour",
+        "Salt",
+        "Olive oil",
+        "Passata",
+        "Mozzarella cheese",
+        "Oregano",
+        "Black pepper",
+        "Basil"
+      ]
+    },
+    {
+      "id": "1a2b",
+      "name": "Spaghetti Carbonara",
+      "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "instructions": "Cook spaghetti in salted boiling water until al dente. Fry pancetta until crispy. In a bowl, beat eggs, mix in Parmesan, combine with drained pasta and pancetta, and serve immediately.",
+      "category": "Main Course",
+      "prepTime": "20 mins",
+      "ingredients": [
+        "Spaghetti",
+        "Pancetta",
+        "Eggs",
+        "Parmesan cheese",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": "2c3d",
+      "name": "Beef Stroganoff",
+      "image": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+      "instructions": "Slice beef into thin strips, sauté onions and mushrooms in butter. Sear beef, add onions, mushrooms, sour cream, season, and serve over rice or noodles.",
+      "category": "Main Course",
+      "prepTime": "30 mins",
+      "ingredients": [
+        "Beef",
+        "Onions",
+        "Mushrooms",
+        "Butter",
+        "Sour cream",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": "3e4f",
+      "name": "Chicken Caesar Salad",
+      "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "instructions": "Grill chicken breasts, slice, and toss with romaine lettuce, Caesar dressing, croutons, and Parmesan cheese. Serve immediately.",
+      "category": "Salad",
+      "prepTime": "20 mins",
+      "ingredients": [
+        "Chicken breasts",
+        "Romaine lettuce",
+        "Caesar dressing",
+        "Croutons",
+        "Parmesan cheese"
+      ]
+    },
+    {
+      "id": "5i6j",
+      "name": "Vegetable Stir Fry",
+      "image": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
+      "instructions": "Chop vegetables and stir-fry with oil, soy sauce, garlic, and ginger. Serve over rice or noodles.",
+      "category": "Main Course",
+      "prepTime": "15 mins",
+      "ingredients": [
+        "Mixed vegetables",
+        "Oil",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Rice or noodles"
+      ]
+    },
+    {
+      "id": "6k7l",
+      "name": "Lamb Curry",
+      "image": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+      "instructions": "Brown lamb in oil, set aside. Cook onions, garlic, ginger, add curry powder, return lamb, add coconut milk, and simmer. Serve with rice.",
+      "category": "Main Course",
+      "prepTime": "1 hour",
+      "ingredients": [
+        "Lamb",
+        "Oil",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Curry powder",
+        "Coconut milk",
+        "Rice"
+      ]
+    },
+    {
+      "id": "7m8n",
+      "name": "Fish Tacos",
+      "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+      "instructions": "Season fish with chili powder, cumin, and salt. Cook in a hot pan, serve in tortillas with cabbage, avocado, and salsa.",
+      "category": "Main Course",
+      "prepTime": "20 mins",
+      "ingredients": [
+        "Fish fillets",
+        "Tortillas",
+        "Cabbage",
+        "Avocado",
+        "Salsa",
+        "Chili powder",
+        "Cumin",
+        "Salt"
+      ]
+    },
+    {
+      "id": "8o9p",
+      "name": "Caprese Salad",
+      "image": "https://th.bing.com/th?id=OSK.c63cc49bdde09408e4182ca909bfa442&w=220&h=146&rs=2&qlt=80&o=6&cdv=1&cb=13&pid=16.1",
+      "instructions": "Layer fresh mozzarella, tomatoes, and basil. Drizzle with olive oil and balsamic vinegar, season with salt and pepper.",
+      "category": "Salad",
+      "prepTime": "10 mins",
+      "ingredients": [
+        "Fresh mozzarella",
+        "Tomatoes",
+        "Basil",
+        "Olive oil",
+        "Balsamic vinegar",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": "9q0r",
+      "name": "Chili con Carne",
+      "image": "https://th.bing.com/th?id=OSK.e3d874d77b8f5b094817dbd669898c81&w=220&h=220&rs=2&qlt=80&o=6&cdv=1&cb=13&pid=16.1",
+      "instructions": "Brown ground beef with onions, add garlic, tomatoes, kidney beans, chili powder, and simmer. Serve hot.",
+      "category": "Main Course",
+      "prepTime": "45 mins",
+      "ingredients": [
+        "Ground beef",
+        "Onions",
+        "Garlic",
+        "Tomatoes",
+        "Kidney beans",
+        "Chili powder",
+        "Salt"
+      ]
+    },
+    {
+      "id": "0a1b",
+      "name": "Mushroom Risotto",
+      "image": "https://th.bing.com/th?id=OSK.b60253ae1592181f9b8ed243e2b889f0&w=220&h=110&rs=2&qlt=80&o=6&cdv=1&cb=13&pid=16.1",
+      "instructions": "Sauté onions, add Arborio rice, gradually add broth while stirring until creamy. Stir in mushrooms and cheese before serving.",
+      "category": "Main Course",
+      "prepTime": "30 mins",
+      "ingredients": [
+        "Onions",
+        "Arborio rice",
+        "Broth",
+        "Mushrooms",
+        "Cheese",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": "1d2e",
+      "name": "Lentil Soup",
+      "image": "https://th.bing.com/th?id=OSK.4927a7fa25b7edf8006fe05dd07cfcbc&w=220&h=330&rs=2&qlt=80&o=6&cdv=1&cb=13&pid=16.1",
+      "instructions": "Cook lentils with diced vegetables, garlic, and seasonings until tender. Serve hot.",
+      "category": "Soup",
+      "prepTime": "40 mins",
+      "ingredients": [
+        "Lentils",
+        "Carrots",
+        "Celery",
+        "Onions",
+        "Garlic",
+        "Vegetable broth",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "id": "9434",
+      "name": "Muneiwa",
+      "password": "123456"
+    }
+  ]
+}
