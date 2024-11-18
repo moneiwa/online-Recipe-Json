@@ -9,6 +9,7 @@ const App = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   useEffect(() => {
+   
     const authStatus = localStorage.getItem('isAuthenticated');
     if (authStatus === 'true') {
       setIsAuthenticated(true);
@@ -16,30 +17,37 @@ const App = () => {
   }, []);
 
   const handleLogin = () => {
+ 
     setIsAuthenticated(true);
     localStorage.setItem('isAuthenticated', 'true');
   };
 
   const handleLogout = () => {
-    setIsAuthenticated(false);
+    
     localStorage.removeItem('isAuthenticated');
+    localStorage.removeItem('authToken');
+    setIsAuthenticated(false); 
   };
 
   return (
     <BrowserRouter>
       <Routes>
-        {console.log(isAuthenticated)}
+      
         <Route
           path="/"
           element={isAuthenticated ? <Home onLogout={handleLogout} /> : <Navigate to="/login" />}
         />
+
+      
         <Route
           path="/login"
           element={isAuthenticated ? <Navigate to="/" /> : <Login onLogin={handleLogin} />}
         />
+
+  
         <Route
           path="/register"
-          element={isAuthenticated ? <Navigate to="/login" /> : <Register />}
+          element={isAuthenticated ? <Navigate to="/" /> : <Register />}
         />
       </Routes>
     </BrowserRouter>
